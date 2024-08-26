@@ -1,11 +1,12 @@
-//#define Pass60
+#define Pass60
 //#define HD90
 
 using System;
 using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using System.IO;
 using UnityEditor;
-using UnityEngine;
 using System.Text.RegularExpressions;
 
 public class ProgressEvaluator : MonoBehaviour
