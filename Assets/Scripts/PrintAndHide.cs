@@ -6,7 +6,7 @@ public class ConsolePrint : MonoBehaviour
 {
     int i;
     int random;
-    public Renderer read;
+    public Renderer rend;
 
     // Start is called before the first frame update
     void Start()
